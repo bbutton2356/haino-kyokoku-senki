@@ -1,0 +1,56 @@
+灰の峡谷戦記
+クレジット
+
+ブラウザ版の注意
+ブラウザ版では、セーブの後に1秒ほど待ってから、タブやブラウザを閉じてください。すぐに閉じると、記録が残らないことがあります。
+
+この作品は、AIを用いて作りました。
+AIを用いて作った部分は、プログラム、画面の文、会話の本文、
+絵の加工と描き足し、BGMと効果音です。
+BGMと効果音は、すべて開発用のスクリプトで合成したものです。公開されている音の素材は使っていません。
+
+LPC Revised（絵の素材集）
+元のURL: https://github.com/ElizaWy/LPC
+作者: Eliza Wyatt (DeathsDarling)、Lanea Zimmerman (Sharm)、
+  Stephen Challener (Redshrike)、Hyptosis、
+  Durrani、BenCreating
+ライセンス: OGA-BY 3.0（https://static.opengameart.org/OGA-BY-3.0.txt）
+この素材集の絵に、切り出し、組み合わせ、色の変更、描き足しを行って使っています。
+
+人物の絵: 素体と服は LPC Revised の絵です。
+  武器、長衣、鎧、盾、外套は、AIを用いて描き足しました。
+地形: 地形のタイルは LPC Revised の絵です。
+  足りない絵は、AIを用いて描くか、素材集の絵を組み立てて作りました。
+顔の絵: マップの上の人物の絵から頭と肩を 32×32px で切り出し、
+  3倍に拡大したものです。
+
+DotGothic16（文字のフォント）
+Copyright 2020 The DotGothic16 Project Authors (https://github.com/fontworks-fonts/DotGothic16)
+ライセンス: SIL Open Font License 1.1（http://scripts.sil.org/OFL）
+ライセンスの全文は、配布物の OFL.txt に記載しています。
+
+Godot Engine
+この作品は Godot Engine 4.7.2-stable (official) を使って作りました。
+Copyright (c) 2014-present Godot Engine contributors (see AUTHORS.md).
+Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Godot Engine に入っている部品の著作権とライセンスの表示は、
+配布物の GODOT_COPYRIGHT.txt に記載しています。
